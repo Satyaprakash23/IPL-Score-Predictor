@@ -13,7 +13,7 @@ This Streamlit webapp enables user to predict total runs between teams using cur
 
 **Hyperparamter Optimization:**
 
-Used optuna for paramter optimization.
+Used optuna for parameter optimization.
 
 **Dataset:**
 
